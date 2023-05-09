@@ -1,7 +1,7 @@
 ## Olá, eu sou o Thiago!
 👩‍💻 Analista de Suporte na Mart Minas Atacado e Varejo; <br>
 🧑‍🎓 Estudante de Ciências da Computação na Universidade FUMEC; <br>
-💻 Desenvolvedor Web Front-End.
+💻 Desenvolvedor Web Front-End em desenvolvimento.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlthiago)](https://github.com/anuraghazra/github-readme-stats)
 
