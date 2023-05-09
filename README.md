@@ -1,5 +1,5 @@
 Olá, eu sou o Thiago Alves! <br>
-Coordenador de Suporte e Automação na Mart Minas Atacado e Varejo, estudante de Ciências da Computação e estudante de desenvolvimento Web Front-End.
+Analista de Suporte na Mart Minas Atacado e Varejo, estudante de Ciências da Computação e estudante de desenvolvimento Web Front-End.
 
 
 
