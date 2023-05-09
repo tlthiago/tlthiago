@@ -1,4 +1,4 @@
-## Olá, eu sou o Thiago Alves!
+## Olá, eu sou o Thiago!
 👩‍💻 Analista de Suporte na Mart Minas Atacado e Varejo; <br>
 🧑‍🎓 Estudante de Ciências da Computação na Universidade FUMEC; <br>
 💻 Desenvolvedor Web Front-End.
