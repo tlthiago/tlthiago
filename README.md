@@ -1,8 +1,8 @@
 ## Hi, I'm Thiago
 
-👩‍💻 Analista de Suporte na Mart Minas Atacado e Varejo; <br>
-🧑‍🎓 Estudante de Ciências da Computação na Universidade FUMEC; <br>
-💻 Desenvolvedor Web Front-End em desenvolvimento.
+👩‍💻 Support Analyst at Mart Minas Atacado e Varejo; <br>
+🧑‍🎓 Computer Science Student at <a href="https://www.fumec.br" target="_blank">FUMEC University</a>; <br>
+💻 Front-End Web Developer in development.
 
 ## 🖥️ Technologies and Tools 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
