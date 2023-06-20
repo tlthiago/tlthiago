@@ -1,11 +1,11 @@
 ## Hi, I'm Thiago
 
-👩‍💻 Support Analyst at Mart Minas Atacado e Varejo; <br>
+👩‍💻 Support Analyst at <a href="https://www.martminas.com.br" target="_blank">Mart Minas Atacado e Varejo</a>; <br>
 🧑‍🎓 Computer Science Student at <a href="https://www.fumec.br" target="_blank">FUMEC University</a>; <br>
 💻 Front-End Web Developer in development.
 
-## 🖥️ Technologies and Tools 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+## 🖥️ Learning the Technologies
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## 📱 Social
 <a href="https://www.linkedin.com/in/thiagolmalves" target="_blank">
