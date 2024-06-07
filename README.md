@@ -1,6 +1,6 @@
 ## Hi, I'm Thiago
 
-👩‍💻 Support Analyst at <a href="https://www.martminas.com.br" target="_blank">Mart Minas Atacado e Varejo</a>; <br>
+👩‍💻 System developer at <a href="https://www.martminas.com.br" target="_blank">Mart Minas Atacado e Varejo</a>; <br>
 🧑‍🎓 Computer Science Student at <a href="https://www.fumec.br" target="_blank">FUMEC University</a>; <br>
 💻 Front-End Web Developer in development.
 
