@@ -2,7 +2,6 @@
 
 👩‍💻 System developer at <a href="https://www.martminas.com.br" target="_blank">Mart Minas Atacado e Varejo</a>; <br>
 🧑‍🎓 Computer Science Student at <a href="https://www.fumec.br" target="_blank">FUMEC University</a>; <br>
-💻 Front-End Web Developer in development.
 
 ## 🖥️ Technologies
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
