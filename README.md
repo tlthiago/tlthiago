@@ -1,20 +1,39 @@
-## Hi, I'm Thiago
+# 👋 Hi, I'm Thiago Alves  
 
-👩‍💻 System developer at <a href="https://www.martminas.com.br" target="_blank">Mart Minas Atacado e Varejo</a>; <br>
-🧑‍🎓 Computer Science Student at <a href="https://www.fumec.br" target="_blank">FUMEC University</a>; <br>
+💻 **Fullstack Developer & Software Architect**  
+Apaixonado por criar sistemas web seguros, escaláveis e sob medida, unindo **desenvolvimento** e **DevOps**.  
 
-## 🖥️ Technologies
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+---
 
-## 🖥️ Interested In
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-## 🖥️ Technologies Already Used
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+## 🚀 Tecnologias principais
+- **Frontend**: React, Next.js, TailwindCSS  
+- **Backend**: Node.js, NestJS  
+- **Banco de Dados**: PostgreSQL, Oracle  
+- **ORMs**: Prisma, TypeORM  
+- **Infra & DevOps**: Docker, CI/CD (GitHub Actions, ArgoCD), Kubernetes  
+- **Outros**: Testcontainers, Coolify  
 
-## 📱 Social
-<a href="https://www.linkedin.com/in/thiagolmalves" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+---
+
+## 🛠 O que eu faço
+✔️ Projeto e desenvolvo aplicações web completas (frontend + backend)  
+✔️ Integro APIs e sistemas corporativos  
+✔️ Estruturo pipelines de CI/CD e automação de deploy  
+✔️ Gerencio ambientes em containers e clusters  
+✔️ Crio soluções que garantem **segurança, escalabilidade e resiliência**  
+
+---
+
+## 📌 Projetos em destaque
+- [SynnerData](https://synnerdata.com.br) – Plataforma multi-tenant com integração ao Power BI e Gateway de pagamento
+- [Avocado HP](#) – Sistema de gestão em desenvolvimento (Next.js 15 + Prisma + shadcn/ui)
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/thiagolmalves)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/tlthiago)  
+
 
 <!--
 **tlthiago/tlthiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
