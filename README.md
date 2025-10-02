@@ -6,12 +6,12 @@ Apaixonado por criar sistemas web seguros, escaláveis e sob medida, unindo **de
 ---
 
 ## 🚀 Tecnologias principais
-- **Frontend**: React, Next.js, TailwindCSS  
-- **Backend**: Node.js, NestJS  
-- **Banco de Dados**: PostgreSQL, Oracle  
-- **ORMs**: Prisma, TypeORM  
-- **Infra & DevOps**: Docker, CI/CD (GitHub Actions, ArgoCD), Kubernetes  
-- **Outros**: Testcontainers, Coolify  
+- **Frontend**: React, Next.js, TailwindCSS
+- **Backend**: Node.js, NestJS
+- **Banco de Dados**: PostgreSQL, Oracle
+- **ORMs**: Prisma, TypeORM
+- **Infra & DevOps**: Docker, CI/CD (GitHub Actions, ArgoCD), Kubernetes
+- **Outros**: Testcontainers, Coolify
 
 ---
 
@@ -31,8 +31,7 @@ Apaixonado por criar sistemas web seguros, escaláveis e sob medida, unindo **de
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/thiagolmalves)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/tlthiago)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/thiagolmalves)
 
 
 <!--
