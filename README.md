@@ -6,12 +6,12 @@ Apaixonado por criar sistemas web seguros, escaláveis e sob medida, unindo **de
 ---
 
 ## 🚀 Tecnologias principais
-- **Frontend**: React, Next.js, TailwindCSS
-- **Backend**: Node.js, NestJS
+- **Frontend**: React, Next.js, TailwindCSS, Astro
+- **Backend**: Node.js, Express, Fastify, NestJS, Bun, Elysia
 - **Banco de Dados**: PostgreSQL, Oracle
-- **ORMs**: Prisma, TypeORM
-- **Infra & DevOps**: Docker, CI/CD (GitHub Actions, ArgoCD), Kubernetes
-- **Outros**: Testcontainers, Coolify
+- **ORMs**: Drizzle, TypeORM, Prisma
+- **Infra & DevOps**: Docker, CI/CD (GitHub Actions, ArgoCD), Kubernetes, ArgoCD, Rancher
+- **Outros**: Better Auth, Zod, Testcontainers, Coolify
 
 ---
 
@@ -25,8 +25,7 @@ Apaixonado por criar sistemas web seguros, escaláveis e sob medida, unindo **de
 ---
 
 ## 📌 Projetos em destaque
-- [SynnerData](https://synnerdata.com.br) – Plataforma multi-tenant com integração ao Power BI e Gateway de pagamento
-- [Avocado HP](#) – Sistema de gestão em desenvolvimento (Next.js 15 + Prisma + shadcn/ui)
+- [Ali'Capital 8](https://alicapital8.com)
 
 ---
 
